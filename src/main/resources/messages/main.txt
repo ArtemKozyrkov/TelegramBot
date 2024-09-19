@@ -1,0 +1,18 @@
+Hi! This BOT is combine useful of *Telegram*, powerful of *ChatGPT* and fun of *Tinder*.
+
+*What Chat-BOT can do*:
+1. Generate Tinder-profile by description 😎
+2. Generate good first message 😘
+3. Generate answer for messages 😇🔥
+4. Train you with Chat-BOT. 🥰
+
+
+*Useful links:*
+1. /start — Main
+2. /profile — Generate Tinder-profile 😎
+3. /opener — Generate open message for tinder 🥰
+4. /message — Generate answer 😈
+5. /date — Chat with celebrities  🔥
+6. /gpt - Ask Chat-GPT 🧠
+
+
